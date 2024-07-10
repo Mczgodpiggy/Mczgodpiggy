@@ -6,7 +6,8 @@ function what(am_i) {
           "a": "Professional c#, javascript developer",
           "currently": {
               "Learning": ["c++", "java", "kotlin"],
-              "Working as": ["Dev@Lemon client", "Dev@Sakura client"],
+              "Working as": ["Dev@Sakura client"],
+              "Grinding": ["The Finals"]
           }
       }
   };
